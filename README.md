@@ -162,6 +162,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Nature Photography
 - [![github-alt][github-img]](https://github.com/Anush93)
 
+### Ariana
+- Beginner coder
+- [![twitter-alt][twitter-img]](https://twitter.com/pho_splatoon)
+  [![github-alt][github-img]](https://github.com/dabonadobe)
+
 ### Ardin
 - Software Engineer from Indonesia
 - I solve problem and make stuff
